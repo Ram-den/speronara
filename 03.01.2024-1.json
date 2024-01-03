@@ -1,0 +1,26 @@
+{
+    "name": "William Scott",
+    "age": 47,
+    "address": {
+        "street": "Julia Ridges",
+        "city": "Smithhaven",
+        "state": "Illinois",
+        "zip": "76494"
+    },
+    "contact": {
+        "phone": "+1-736-921-1073x45796",
+        "servicePhone": "800355804"
+    },
+    "birthday": "1978-22-09",
+    "ip": "65.217.155.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice plan pay agree fish both try.\nFirst half candidate of ever three. Radio commercial government require address.",
+        "bio": "Marriage skin challenge not.\nAs receive matter stuff me. By model last find one whose.\nBill audience president. Walk perhaps own success.\nDrop lay minute side. Choose sign player culture agree raise."
+    },
+    "apiKey": "ebb444e8d4ccfc0d18dfe5e279cb4d3cc4ff90c44ac0d2368267f055335bbff7",
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
