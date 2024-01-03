@@ -1,0 +1,26 @@
+{
+    "name": "Cassandra Raymond",
+    "age": 25,
+    "address": {
+        "street": "Jesse Fall",
+        "city": "Sanchezside",
+        "state": "Utah",
+        "zip": "70242"
+    },
+    "contact": {
+        "phone": "330.730.0281x523",
+        "servicePhone": "800444182"
+    },
+    "birthday": "2000-20-05",
+    "ip": "154.180.212.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe store special learn perhaps. Morning put prepare. Ever everybody consumer environment whose.",
+        "bio": "Police word none glass. Fight happy note clearly operation until. Standard over school first dark act. Region authority method body green."
+    },
+    "apiKey": "fd99a729ba5b20dae7a4375005476c3a06ee8e3d4b332cec8056ad18deeebe62",
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
