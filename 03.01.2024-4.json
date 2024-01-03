@@ -1,0 +1,26 @@
+{
+    "name": "Robert Jones",
+    "age": 107,
+    "address": {
+        "street": "Laura Squares",
+        "city": "Robinsonmouth",
+        "state": "Virginia",
+        "zip": "71023"
+    },
+    "contact": {
+        "phone": "(381)318-8478x59668",
+        "servicePhone": "800280746"
+    },
+    "birthday": "1918-22-11",
+    "ip": "119.216.97.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Agree home cause cultural what fire. Person feeling little result knowledge carry itself.\nSuccessful what agree finally total trial pressure.",
+        "bio": "Democratic suggest hope. Want charge us any debate left church. Maintain support animal decide difference win.\nTelevision wind second child black. How paper magazine."
+    },
+    "apiKey": "8638ebeb1ce4ffeda6b14cfc386546569bcb39e06b21774a95901f148c7604c9",
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
