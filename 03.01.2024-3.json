@@ -1,0 +1,26 @@
+{
+    "name": "Justin Watkins",
+    "age": 87,
+    "address": {
+        "street": "Bonnie Crossing",
+        "city": "Gallegosfort",
+        "state": "South Dakota",
+        "zip": "88828"
+    },
+    "contact": {
+        "phone": "885-237-5960",
+        "servicePhone": "800285140"
+    },
+    "birthday": "1938-15-11",
+    "ip": "186.78.8.222",
+    "foo": "bar",
+    "profile": {
+        "about": "War particular phone real whole little father. Issue TV among. Late positive add news.",
+        "bio": "Nor father evidence whether. Gun team unit available. Huge method artist probably mention benefit.\nBuilding word tax threat difference mind remember."
+    },
+    "apiKey": "3bca9f3c9e2f45b5e68a36306fb0c5ba8273f6c8c64fbdca379f0176ca04adf6",
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
