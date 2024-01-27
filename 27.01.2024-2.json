@@ -1,0 +1,26 @@
+{
+    "name": "Mary Acosta",
+    "age": 7,
+    "address": {
+        "street": "Kimberly Spurs",
+        "city": "Lisastad",
+        "state": "Oregon",
+        "zip": "85201"
+    },
+    "contact": {
+        "phone": "495-508-5742",
+        "servicePhone": "800214374"
+    },
+    "birthday": "2018-02-06",
+    "ip": "119.105.22.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Again old final in focus. My forward somebody do treat coach. Involve whom recognize.\nTown voice know set however film. Relate quite early mission film statement drug wide.",
+        "bio": "Heavy actually successful room physical author. Live wait I health other. Protect rich magazine per."
+    },
+    "apiKey": "607edc6dfe712b2d62221abd413b9a1b3c8d6604b8f0add449f6d243fc66f77d",
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
