@@ -1,0 +1,26 @@
+{
+    "name": "Joshua Medina",
+    "age": 108,
+    "address": {
+        "street": "Wise Plaza",
+        "city": "Walkertown",
+        "state": "Connecticut",
+        "zip": "22099"
+    },
+    "contact": {
+        "phone": "(388)895-5883",
+        "servicePhone": "800139195"
+    },
+    "birthday": "1917-01-06",
+    "ip": "219.7.15.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Development field worker. Seven stay group subject along. Magazine environment single toward audience.\nTask court though spring.\nOpen support house board part. Enough myself any only.",
+        "bio": "Late star success crime talk only. Election bill leave start save behind if. Reveal line only young.\nCourse this whole they. Can attention base."
+    },
+    "apiKey": "55b73e33239267cec79ab3cec7d4fbd72eecc290f6fdc076fc37ec63fb5a43e4",
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
