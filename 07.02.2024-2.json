@@ -1,0 +1,26 @@
+{
+    "name": "Kevin Campbell",
+    "age": 42,
+    "address": {
+        "street": "John Extension",
+        "city": "Blackwellborough",
+        "state": "Maine",
+        "zip": "22150"
+    },
+    "contact": {
+        "phone": "296-376-3977x1611",
+        "servicePhone": "800911991"
+    },
+    "birthday": "1983-13-11",
+    "ip": "34.18.0.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk factor body during. None order theory hair measure crime theory. And pay war next hope wonder painting.\nRest ball serve guess mother practice wait.",
+        "bio": "Sister you control suddenly. All next despite statement want billion important structure."
+    },
+    "apiKey": "4005d69a92071fb62bbc0c204b61ed3683b7502ddac17bac2968b3117e9f385a",
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
