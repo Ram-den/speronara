@@ -1,0 +1,26 @@
+{
+    "name": "Charles Beck",
+    "age": 71,
+    "address": {
+        "street": "Jessica Forest",
+        "city": "Cooperburgh",
+        "state": "New Jersey",
+        "zip": "64005"
+    },
+    "contact": {
+        "phone": "632.879.4387",
+        "servicePhone": "800095995"
+    },
+    "birthday": "1954-14-01",
+    "ip": "196.76.110.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Color thank trade everybody. Hotel relate respond across nor speech first.\nNature others sense weight firm he require minute. Stock keep allow agency card apply who.",
+        "bio": "Education operation company fund start. Seek without author town able stop. Least experience lay sport project live behavior. The majority give account."
+    },
+    "apiKey": "b94995802362b51839a5c801cdaf334df37fb0541487ca50a8a141c8c04c8f4d",
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
