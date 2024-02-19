@@ -1,0 +1,26 @@
+{
+    "name": "Douglas Larson",
+    "age": 72,
+    "address": {
+        "street": "Lara Orchard",
+        "city": "North Alexandraton",
+        "state": "Nevada",
+        "zip": "02488"
+    },
+    "contact": {
+        "phone": "567.977.0199",
+        "servicePhone": "800899612"
+    },
+    "birthday": "1953-18-06",
+    "ip": "205.169.3.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Weight Mrs throw head notice begin result matter. Visit majority item player current difficult dog. Practice relate financial across. Walk first our rise expert information specific.",
+        "bio": "Actually me standard tax notice military tend. Trial nearly group simply their there hundred central. Woman play front computer parent low."
+    },
+    "apiKey": "6744c0e69dcf907873fe5f81d909285791d435f0688fabff5b918cfd721ab6a7",
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
