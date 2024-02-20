@@ -1,0 +1,26 @@
+{
+    "name": "Alyssa Long",
+    "age": 89,
+    "address": {
+        "street": "Hunter Bridge",
+        "city": "West Theresa",
+        "state": "Texas",
+        "zip": "75757"
+    },
+    "contact": {
+        "phone": "+1-910-755-2980",
+        "servicePhone": "800866400"
+    },
+    "birthday": "1936-02-06",
+    "ip": "139.49.201.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader instead wish open there change. Fine type customer move office line after more. Food stock thousand teacher foot son service.",
+        "bio": "Everything believe rest current group own. Government house different thought eat. Good central manager program watch feeling development."
+    },
+    "apiKey": "9b10230abeeffa93383b1fef9979039d25bddf08698a84f67a5189c988e6e7e8",
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
