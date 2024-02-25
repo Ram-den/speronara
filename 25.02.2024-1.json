@@ -1,0 +1,26 @@
+{
+    "name": "Patrick Benson",
+    "age": 82,
+    "address": {
+        "street": "Blair Flat",
+        "city": "Lake Melissaberg",
+        "state": "Vermont",
+        "zip": "23681"
+    },
+    "contact": {
+        "phone": "(759)403-0438",
+        "servicePhone": "800282155"
+    },
+    "birthday": "1943-07-12",
+    "ip": "51.81.111.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Team or do each among school arm. Several artist let. Senior on leader minute president argue reflect.\nCivil effort gas public. Cup clearly any line what lay a rate. Natural laugh model measure.",
+        "bio": "Yes his area section suggest. Most national better. Specific matter strategy husband fall.\nServe well foreign work.\nParticularly seek window. Short say mouth follow. Good skin size agree view."
+    },
+    "apiKey": "87884ac436e619d1664f42d088a7d3fe8c0609a69e1d6745cf34ec3558f70742",
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
