@@ -1,0 +1,26 @@
+{
+    "name": "Susan Miller",
+    "age": 41,
+    "address": {
+        "street": "Rebekah Groves",
+        "city": "Jordanport",
+        "state": "Arkansas",
+        "zip": "16454"
+    },
+    "contact": {
+        "phone": "+1-387-334-6277",
+        "servicePhone": "800916408"
+    },
+    "birthday": "1984-19-11",
+    "ip": "1.82.219.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Major decision talk civil. Question level worry.\nDaughter culture young. Relationship fish term imagine certainly husband.\nTraditional nearly threat base. Anyone everyone off nothing firm.",
+        "bio": "Recently pressure true agreement. Compare color voice painting door toward. Next practice key air. Participant approach subject free set message."
+    },
+    "apiKey": "c79fb6297e9dce1b3aa51f759f8deb5709cb05c58351a59424f52c88edd2251b",
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
