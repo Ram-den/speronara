@@ -1,0 +1,26 @@
+{
+    "name": "Matthew Harris",
+    "age": 44,
+    "address": {
+        "street": "Kathryn Plains",
+        "city": "East Amanda",
+        "state": "New Hampshire",
+        "zip": "98796"
+    },
+    "contact": {
+        "phone": "312.916.1311x1294",
+        "servicePhone": "800267378"
+    },
+    "birthday": "1981-19-09",
+    "ip": "165.174.67.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular tax first strong physical whole. Sure if we. Sort tree language investment someone. When rich sell sit design.",
+        "bio": "Reveal sometimes politics feel head now. More almost under morning charge lose almost."
+    },
+    "apiKey": "15cab810ef4ce88ac3bf3074d829c9ed2fe99d112317f2f6244ff2cf26b14bdd",
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
