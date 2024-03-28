@@ -1,0 +1,26 @@
+{
+    "name": "Ashley Lambert",
+    "age": 47,
+    "address": {
+        "street": "Daniel Hills",
+        "city": "Port Cynthia",
+        "state": "New York",
+        "zip": "24381"
+    },
+    "contact": {
+        "phone": "+1-200-659-8310x113",
+        "servicePhone": "800005058"
+    },
+    "birthday": "1978-24-09",
+    "ip": "119.53.195.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Tell professor weight floor force different. Really close stand song. Safe give star join newspaper item least.\nThought power truth create fast know center knowledge. Eight wonder floor.",
+        "bio": "Similar data discover nation.\nEvent fish window chair fish parent third. Both visit ready night. Reflect who huge window claim space.\nMusic east author up."
+    },
+    "apiKey": "1e12b06e8d3b04c0c3a51d288530c19daab5d49c0251e401619a9eab4a912762",
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
