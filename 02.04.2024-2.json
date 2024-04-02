@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Richards",
+    "age": 114,
+    "address": {
+        "street": "Andrea Street",
+        "city": "North Andrew",
+        "state": "South Dakota",
+        "zip": "31379"
+    },
+    "contact": {
+        "phone": "001-562-276-5172x95812",
+        "servicePhone": "800707595"
+    },
+    "birthday": "1911-28-12",
+    "ip": "72.247.82.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Election author book she.\nCapital point wind set follow decide. Stand billion put.\nMember ready make pull nation gun of. Claim class wind city level.",
+        "bio": "Through answer happen store. Art hope lawyer often maintain theory. Billion sit fact common sometimes race city add.\nCommon no modern response so hard. Best partner capital two become."
+    },
+    "apiKey": "a7d824afbcfb2de1a7397c0efb8eb44dc99e3385b837b8a22d1533fe782d0e00",
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
