@@ -1,0 +1,26 @@
+{
+    "name": "Teresa Mosley",
+    "age": 116,
+    "address": {
+        "street": "Roberts Club",
+        "city": "Hamiltonshire",
+        "state": "Kansas",
+        "zip": "01218"
+    },
+    "contact": {
+        "phone": "(825)241-0109x5270",
+        "servicePhone": "800961519"
+    },
+    "birthday": "1909-28-02",
+    "ip": "173.38.150.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour remember develop government parent team understand.\nCatch happen how time election book wind. Bag sometimes enough will risk quality. Each against growth character value account.",
+        "bio": "Trade style language live when month thought. Degree design with blood east bit society little. Ten speech dark protect possible.\nMeasure third woman usually gas. Player address walk."
+    },
+    "apiKey": "664482e1691debf28be88b246333c15d4bcb0a3064b543d3b857f2f9e208fa4b",
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
