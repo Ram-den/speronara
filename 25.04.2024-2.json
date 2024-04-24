@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Brown",
+    "age": 108,
+    "address": {
+        "street": "Ronald Mews",
+        "city": "New Jonathantown",
+        "state": "Nevada",
+        "zip": "28749"
+    },
+    "contact": {
+        "phone": "224-902-0502x58507",
+        "servicePhone": "800318512"
+    },
+    "birthday": "1917-12-02",
+    "ip": "103.128.63.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun threat seven continue. Clearly structure people age. Item film lay important cold group close.",
+        "bio": "Miss writer brother thus can tree window. Huge small experience develop almost such guy their."
+    },
+    "apiKey": "7ed71efc4acf2eaf78a719ec5b091e6e1df718509424a39de4ec7d34a60b0315",
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
