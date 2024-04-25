@@ -1,0 +1,26 @@
+{
+    "name": "Jill Pennington",
+    "age": 91,
+    "address": {
+        "street": "Vasquez Tunnel",
+        "city": "Lake Andrew",
+        "state": "Oklahoma",
+        "zip": "96846"
+    },
+    "contact": {
+        "phone": "+1-820-507-4502x0175",
+        "servicePhone": "800625082"
+    },
+    "birthday": "1934-29-09",
+    "ip": "62.84.191.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Data customer reveal.\nOption party sign material. World several whether cold. Lawyer the fear government.",
+        "bio": "Design hope until through Republican. Green outside source important force. Voice once affect red article often understand."
+    },
+    "apiKey": "327e0ead346f2082673f2c197a16c9dccf19a4bf861e33080566258b2158c61a",
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
