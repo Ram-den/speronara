@@ -1,0 +1,26 @@
+{
+    "name": "Roger Lee",
+    "age": 102,
+    "address": {
+        "street": "Jose Forge",
+        "city": "Port Kimberly",
+        "state": "Missouri",
+        "zip": "11875"
+    },
+    "contact": {
+        "phone": "8848047734",
+        "servicePhone": "800096005"
+    },
+    "birthday": "1923-26-08",
+    "ip": "36.99.76.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Yourself development lose chance get test. Per family would economy know spring hotel information. Ago like after space father fight free. Buy value including place wide.",
+        "bio": "Nice positive model life season north. Question themselves level.\nFill above these audience service foot.\nWhole charge tough together. Party beautiful green century table. Morning wait guy."
+    },
+    "apiKey": "52dfb655ff092610bd3c526388f479ec813104918a08222a215a16d4066ceb8c",
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
