@@ -1,0 +1,26 @@
+{
+    "name": "Sandra Walker",
+    "age": 27,
+    "address": {
+        "street": "West Brook",
+        "city": "Lake Hectorside",
+        "state": "Vermont",
+        "zip": "10754"
+    },
+    "contact": {
+        "phone": "+1-862-338-4327x6034",
+        "servicePhone": "800362713"
+    },
+    "birthday": "1998-13-03",
+    "ip": "175.12.22.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Page economy staff owner best. Senior significant son term. Current deal control.\nThat involve across. Control store feeling doctor hour fish strategy. Administration specific thought central.",
+        "bio": "Support have determine among knowledge. Education cut hand rich.\nDecade card career. Model hit win suddenly necessary. Blue would huge some any trouble scene."
+    },
+    "apiKey": "e69134f6e9b4107ff0e5027c18240fd3ff8fd175610007af3f82bcfbb291029f",
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
