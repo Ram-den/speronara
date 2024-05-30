@@ -1,0 +1,26 @@
+{
+    "name": "Daniel Owens",
+    "age": 78,
+    "address": {
+        "street": "Melissa Stravenue",
+        "city": "Isaactown",
+        "state": "Delaware",
+        "zip": "97633"
+    },
+    "contact": {
+        "phone": "669.285.1852x01098",
+        "servicePhone": "800117530"
+    },
+    "birthday": "1947-29-07",
+    "ip": "133.193.34.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought second want dark east. Experience step since wonder something start effort. Entire general thing nature body near.\nFloor happen guy woman break attention place.",
+        "bio": "Win southern recognize apply seat pattern yet. Every grow employee good color. Turn really himself reveal sign marriage his.\nAdmit foreign large PM."
+    },
+    "apiKey": "7e2516899d25a5c38c6c995d32d9ab65ae975538f1f6b051c6d0fc341edc8cce",
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
