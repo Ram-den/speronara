@@ -1,0 +1,26 @@
+{
+    "name": "Julia Silva",
+    "age": 42,
+    "address": {
+        "street": "Walker Springs",
+        "city": "Chelseatown",
+        "state": "Pennsylvania",
+        "zip": "91200"
+    },
+    "contact": {
+        "phone": "001-687-607-9153x2283",
+        "servicePhone": "800359584"
+    },
+    "birthday": "1983-23-11",
+    "ip": "116.16.229.154",
+    "foo": "bar",
+    "profile": {
+        "about": "However indicate answer open majority well. Human charge painting our all look. Yeah sell you skill might.",
+        "bio": "Floor I recognize break for article structure. School action behind development require help evening. If wear grow rate apply.\nComputer official security many he force. Low including treat southern."
+    },
+    "apiKey": "5921bb60ce3f6b2b4cb0d9375be0c7222fb6a0375e6253e3765abdec26023b3a",
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
