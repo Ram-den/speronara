@@ -1,0 +1,26 @@
+{
+    "name": "Jason Jackson",
+    "age": 84,
+    "address": {
+        "street": "Brett Spring",
+        "city": "Lewishaven",
+        "state": "Kentucky",
+        "zip": "03756"
+    },
+    "contact": {
+        "phone": "(284)261-4644",
+        "servicePhone": "800969629"
+    },
+    "birthday": "1941-27-12",
+    "ip": "173.134.50.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Myself natural skin likely economy pick. Sea think other relate eat.\nListen fear human PM college account. Local type consumer section mean information receive.",
+        "bio": "Increase hot nor week other recent soldier meet. Politics finally wrong in candidate along smile. Perhaps defense including."
+    },
+    "apiKey": "37d6da7e9a8a8fc5a13f2decdf8bdbb40285bca8b4dc9770385f90404a1ccdab",
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
