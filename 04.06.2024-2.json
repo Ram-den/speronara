@@ -1,0 +1,26 @@
+{
+    "name": "Erica Chapman",
+    "age": 58,
+    "address": {
+        "street": "Waters Ports",
+        "city": "Markfort",
+        "state": "Louisiana",
+        "zip": "87198"
+    },
+    "contact": {
+        "phone": "+1-531-480-0320x22729",
+        "servicePhone": "800157346"
+    },
+    "birthday": "1967-08-10",
+    "ip": "215.186.189.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Nor whole always relationship standard growth. Source order customer their exactly. Chair public choice air risk.\nWhen black animal century while. Discussion less teacher.",
+        "bio": "Company effect any election at make effort.\nProject arrive class we happen wait him. Crime tonight relate standard. Five Congress soldier."
+    },
+    "apiKey": "330b470277b90c91668d05b2921cbf9cdbace4b0a2c1d682b0a32276705286ac",
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
