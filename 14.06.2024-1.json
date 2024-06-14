@@ -1,0 +1,26 @@
+{
+    "name": "Rebecca Miller",
+    "age": 1,
+    "address": {
+        "street": "Chloe Expressway",
+        "city": "East Jennifer",
+        "state": "Washington",
+        "zip": "86914"
+    },
+    "contact": {
+        "phone": "2432893449",
+        "servicePhone": "800292166"
+    },
+    "birthday": "2024-17-07",
+    "ip": "62.68.250.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Position sound sometimes impact various. Possible easy leave front about share though.\nAudience whole situation science. Artist worry per federal machine some lay.",
+        "bio": "Our believe important specific blood prove anything seat. Deal must soldier. Song seat sport allow most station."
+    },
+    "apiKey": "d8a82ae669967b1381893699eeba3c69d55965ef024320014097cf1629d3b94e",
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
