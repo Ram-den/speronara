@@ -1,0 +1,26 @@
+{
+    "name": "Matthew Miranda",
+    "age": 21,
+    "address": {
+        "street": "Scott Park",
+        "city": "East Kristin",
+        "state": "North Carolina",
+        "zip": "41819"
+    },
+    "contact": {
+        "phone": "4893427231",
+        "servicePhone": "800797454"
+    },
+    "birthday": "2004-20-12",
+    "ip": "134.165.37.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent machine take interview wind partner author. List discuss everything tonight management. Dog can among better field.\nThink design same push single. Score leg blood build order example.",
+        "bio": "Letter get decade too somebody available send. Positive month nature player huge.\nAct win chance own. Try camera two million. Pick ten enjoy. Mission history six bit."
+    },
+    "apiKey": "c2e9a4ce49d1dac8ff148b24a708a98d965847bfed54ff05d79881648f9887ef",
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
