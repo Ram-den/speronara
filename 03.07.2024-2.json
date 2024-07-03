@@ -1,0 +1,26 @@
+{
+    "name": "Christopher Salas",
+    "age": 62,
+    "address": {
+        "street": "Leach Turnpike",
+        "city": "Madisonborough",
+        "state": "New York",
+        "zip": "55296"
+    },
+    "contact": {
+        "phone": "+1-398-741-2632x196",
+        "servicePhone": "800598193"
+    },
+    "birthday": "1963-05-10",
+    "ip": "130.143.209.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve do plant movement.\nClass require say as list. Would region away conference interview account a. Case think argue difference recognize.\nImprove yes only. Social member which start.",
+        "bio": "Also floor involve stay sea seek.\nList far organization store choose. Purpose body themselves factor factor catch else.\nGood enter song range right. Owner born activity bring catch campaign common."
+    },
+    "apiKey": "f476c1908848f064c43af157c48191ddd87aff56ee4c0e5f94f51472c76a98ae",
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
