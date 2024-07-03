@@ -1,0 +1,26 @@
+{
+    "name": "Erica Mccullough",
+    "age": 20,
+    "address": {
+        "street": "Troy Orchard",
+        "city": "East Lauren",
+        "state": "Kentucky",
+        "zip": "90081"
+    },
+    "contact": {
+        "phone": "319-858-0565x017",
+        "servicePhone": "800411728"
+    },
+    "birthday": "2005-20-01",
+    "ip": "185.213.61.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer always model push. Knowledge hundred arrive trip. Into view southern show whether. Work outside meet analysis effort probably.",
+        "bio": "Watch scientist would. Picture court thousand lose.\nPaper without water run develop speech. Bank perform doctor throughout seat team."
+    },
+    "apiKey": "ccadb88155e504d82be2d77f4c558012a96c933866acecd2dc7c027ef5c76109",
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
