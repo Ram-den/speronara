@@ -1,0 +1,26 @@
+{
+    "name": "Gerald Houston",
+    "age": 116,
+    "address": {
+        "street": "Mitchell View",
+        "city": "Ruizbury",
+        "state": "West Virginia",
+        "zip": "56077"
+    },
+    "contact": {
+        "phone": "256-724-3304x16714",
+        "servicePhone": "800273858"
+    },
+    "birthday": "1909-06-06",
+    "ip": "170.107.189.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy eat various law economic statement give story. Wear follow Republican choice.\nMeasure memory civil gas. Media out site kid wait federal federal. Compare various produce financial north across.",
+        "bio": "Him throw recent. Example natural consider agent close. Rate model affect physical.\nPainting interest pretty way defense including political. Wife leg on win."
+    },
+    "apiKey": "03660d9267591e849bd4ff3608577ed9d742dcc7bdd3339577a95e85e6bab477",
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
