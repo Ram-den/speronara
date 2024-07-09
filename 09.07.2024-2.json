@@ -1,0 +1,26 @@
+{
+    "name": "Cory Torres",
+    "age": 89,
+    "address": {
+        "street": "Jacqueline Terrace",
+        "city": "East Courtneyton",
+        "state": "Indiana",
+        "zip": "58200"
+    },
+    "contact": {
+        "phone": "209.279.5587x765",
+        "servicePhone": "800036343"
+    },
+    "birthday": "1936-29-02",
+    "ip": "105.181.250.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Meeting successful various feeling way arm fear yet. Whether quality throw center interview. Effect respond enjoy key idea.",
+        "bio": "Arrive station animal science six. Perhaps investment effort mention heavy.\nResult window item than. National ground five character."
+    },
+    "apiKey": "943fab39446a81fb7085baa8852af93459e479d9c9601b27dc8305704137e9be",
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
