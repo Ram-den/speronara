@@ -1,0 +1,26 @@
+{
+    "name": "Karen Jenkins",
+    "age": 100,
+    "address": {
+        "street": "Luis Branch",
+        "city": "Reyesfort",
+        "state": "Vermont",
+        "zip": "62994"
+    },
+    "contact": {
+        "phone": "913-230-1236",
+        "servicePhone": "800160807"
+    },
+    "birthday": "1925-14-07",
+    "ip": "118.210.85.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Region son large bar degree compare live. Focus environment future candidate notice. Indicate culture nature.\nPage senior show almost late thing start. Other house six meeting take reality.",
+        "bio": "Than prevent approach including. As physical side drive oil affect. Maybe next use by want watch. Daughter trade something stage question audience field and."
+    },
+    "apiKey": "c514e639a27e441c103593a6fe0525171efce5c3d558f4cce96043ac2b3cf53e",
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
