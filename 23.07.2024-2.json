@@ -1,0 +1,26 @@
+{
+    "name": "Carla Douglas",
+    "age": 113,
+    "address": {
+        "street": "Larry Spurs",
+        "city": "Jesseport",
+        "state": "Michigan",
+        "zip": "12758"
+    },
+    "contact": {
+        "phone": "4165051634",
+        "servicePhone": "800260222"
+    },
+    "birthday": "1912-19-05",
+    "ip": "76.246.194.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Yard nothing plant yourself society. Own rich sport PM.\nCompare impact floor area always. Record next senior page middle politics Mr.",
+        "bio": "Many section guy fire. System full cold property bring to drive.\nOnce turn whom economic employee move month. Coach follow whose half camera."
+    },
+    "apiKey": "a24da28ae6d1502cd0ed097b4a956b6d318672656c39b45a57dbc9d9f0893279",
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
