@@ -1,0 +1,26 @@
+{
+    "name": "Emily Mcgrath",
+    "age": 66,
+    "address": {
+        "street": "Joshua Street",
+        "city": "East Kristenville",
+        "state": "Arizona",
+        "zip": "07202"
+    },
+    "contact": {
+        "phone": "001-558-971-8142x12580",
+        "servicePhone": "800761012"
+    },
+    "birthday": "1959-11-10",
+    "ip": "189.150.204.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven big like president respond minute. Bad ahead artist subject effort American read. Nice positive tough let.",
+        "bio": "Deal short rate shoulder. Test hospital idea really system build. Stock should whose majority present.\nCustomer she least under. Yet behavior land possible."
+    },
+    "apiKey": "57ee6a729638e44fd20c27732d0478c225819aab9d7de9cb2ff38166130276a6",
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
