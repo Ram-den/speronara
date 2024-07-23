@@ -1,0 +1,26 @@
+{
+    "name": "Leslie Williamson",
+    "age": 77,
+    "address": {
+        "street": "Humphrey Parks",
+        "city": "Lake Shannon",
+        "state": "Connecticut",
+        "zip": "18267"
+    },
+    "contact": {
+        "phone": "001-979-357-7664x23921",
+        "servicePhone": "800289888"
+    },
+    "birthday": "1948-24-10",
+    "ip": "182.82.174.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Book worker far price quickly open. Hour agent than campaign during. Suffer article long study store bed must.\nMove degree how possible.\nPrice practice among billion maybe. Campaign commercial for.",
+        "bio": "My so election protect. Wind in deep product inside. City doctor explain consumer mind my.\nIndicate another particularly only evening include candidate. Now put box capital."
+    },
+    "apiKey": "885a608141bf80d86b79a82daf1563d11d2bb42d6998d29435a9dd4d19861c83",
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
