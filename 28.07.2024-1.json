@@ -1,0 +1,26 @@
+{
+    "name": "Nicole Watts",
+    "age": 116,
+    "address": {
+        "street": "Ortiz Stream",
+        "city": "Susanborough",
+        "state": "Kentucky",
+        "zip": "22391"
+    },
+    "contact": {
+        "phone": "884.678.3665",
+        "servicePhone": "800251652"
+    },
+    "birthday": "1909-23-01",
+    "ip": "106.96.58.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Range industry from rich near. Newspaper upon some billion become force student. How structure of live change bit paper.\nMother and tell reflect new recognize policy defense.",
+        "bio": "Recently pull like system news street. Recent federal condition church color. Tax government marriage most bring share. Current inside stuff."
+    },
+    "apiKey": "7f50970007b668a3abca2a8bf8953b187218f83382a0063b3d24f08098cf277d",
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
