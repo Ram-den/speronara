@@ -1,0 +1,26 @@
+{
+    "name": "Pamela Mcgee",
+    "age": 13,
+    "address": {
+        "street": "Dixon Cove",
+        "city": "Rodriguezbury",
+        "state": "New Jersey",
+        "zip": "95462"
+    },
+    "contact": {
+        "phone": "974.757.1260x919",
+        "servicePhone": "800460667"
+    },
+    "birthday": "2012-10-03",
+    "ip": "181.217.254.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye pull night authority. Despite resource nice wide body technology fine.\nBad list either. Middle front foot would involve. Safe toward candidate sense only picture.",
+        "bio": "Natural meet just off.\nVisit light up sense perhaps. Open citizen if out they. Cost score program ground.\nSpeech stop detail. Democratic impact movie argue movement then. Fact wonder position admit."
+    },
+    "apiKey": "ec811c74aaf8c61877449b4b5b9e1c050b39d7f4e74e06995f62b5ad19ef4ff9",
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
