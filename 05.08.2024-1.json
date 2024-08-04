@@ -1,0 +1,26 @@
+{
+    "name": "Russell Walker",
+    "age": 4,
+    "address": {
+        "street": "Anthony Orchard",
+        "city": "West Adamville",
+        "state": "Virginia",
+        "zip": "24741"
+    },
+    "contact": {
+        "phone": "(721)418-8379x52279",
+        "servicePhone": "800747810"
+    },
+    "birthday": "2021-26-12",
+    "ip": "63.130.227.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything fly up according your oil. With skill understand table suggest think small.\nHere general tell garden. Important learn sound skin war themselves.",
+        "bio": "View church while perhaps join. Develop us magazine bar between its. Walk require cold open."
+    },
+    "apiKey": "599eda462d838afcbda01603c83a1b0577f76453ce4b533783a6e38114275489",
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
