@@ -1,0 +1,26 @@
+{
+    "name": "Jason Russell",
+    "age": 64,
+    "address": {
+        "street": "Robbins Shore",
+        "city": "Johnbury",
+        "state": "Utah",
+        "zip": "69974"
+    },
+    "contact": {
+        "phone": "720.738.0843",
+        "servicePhone": "800169961"
+    },
+    "birthday": "1961-05-04",
+    "ip": "12.153.90.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Green answer thank wind effect. One military conference particular soldier. Range appear power ball.",
+        "bio": "Program cup job son third current. Clear interview beat red four sound.\nCall appear age compare kind. Company sometimes child magazine seat usually toward."
+    },
+    "apiKey": "2f0936034aa98125c089dfe6c549562dcbdd7ef90ea8bb20ba79daa0bba31d9a",
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
