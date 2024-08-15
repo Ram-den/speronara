@@ -1,0 +1,26 @@
+{
+    "name": "Beth Anderson",
+    "age": 22,
+    "address": {
+        "street": "Tammy Flats",
+        "city": "West Victorton",
+        "state": "Oregon",
+        "zip": "54730"
+    },
+    "contact": {
+        "phone": "(489)429-7765x1023",
+        "servicePhone": "800033725"
+    },
+    "birthday": "2003-07-03",
+    "ip": "29.39.155.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun father else build left body their. Surface record mind despite.\nNation already instead your door. Rise those president research. Although positive degree fly final game.",
+        "bio": "Bad answer research skin. Language want statement model drug.\nCharge sit entire theory specific describe build. Only yeah everybody big occur."
+    },
+    "apiKey": "cfe1e04c9f8044aaa9d9e64107d21ebf1715c981cc93d4a4f4dd9bdda25927d0",
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
