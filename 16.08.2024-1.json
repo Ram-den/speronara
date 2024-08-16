@@ -1,0 +1,26 @@
+{
+    "name": "Jackson Suarez",
+    "age": 32,
+    "address": {
+        "street": "Brown Mountain",
+        "city": "Johnsonstad",
+        "state": "Minnesota",
+        "zip": "12206"
+    },
+    "contact": {
+        "phone": "001-860-988-6390x6962",
+        "servicePhone": "800067920"
+    },
+    "birthday": "1993-13-06",
+    "ip": "47.95.26.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Each heart true election low court resource. For box hundred herself after indicate structure.\nGarden explain scientist little knowledge agent. Require manager apply however mention deep game keep.",
+        "bio": "Including hotel charge leave white. Oil cold contain break then. Structure himself two age free owner.\nProject sport fund lay. Child small artist apply best fear trial. Next too tend anyone thus."
+    },
+    "apiKey": "72e2856a10b08c10b480b056042377ed809bb191ec84e05c53b06a6173942951",
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
