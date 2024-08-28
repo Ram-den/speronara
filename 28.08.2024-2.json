@@ -1,0 +1,26 @@
+{
+    "name": "Sarah Cannon",
+    "age": 26,
+    "address": {
+        "street": "Clayton Village",
+        "city": "Webershire",
+        "state": "Virginia",
+        "zip": "01230"
+    },
+    "contact": {
+        "phone": "418.383.9400x49227",
+        "servicePhone": "800770002"
+    },
+    "birthday": "1999-08-09",
+    "ip": "196.128.245.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Nearly debate as card second itself. Job space local effort fund difference. Despite market most lead win another arrive public.",
+        "bio": "Water two before hit mind room crime. Speech drive figure practice stage."
+    },
+    "apiKey": "78eeeb96abbb0b27a5cafc5dfb874c5687ddb47f23e1d06e36c651886b5bf34d",
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
