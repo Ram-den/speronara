@@ -1,0 +1,26 @@
+{
+    "name": "Pamela Torres",
+    "age": 44,
+    "address": {
+        "street": "Robinson Way",
+        "city": "Port Jennaberg",
+        "state": "Missouri",
+        "zip": "85279"
+    },
+    "contact": {
+        "phone": "676-596-8240x57790",
+        "servicePhone": "800735885"
+    },
+    "birthday": "1981-03-12",
+    "ip": "217.41.156.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit why spring nature marriage apply ten. Provide thousand leave must general middle tell. School risk method of.",
+        "bio": "Receive according theory build. Particular law top west. Picture beyond station defense dark pretty so."
+    },
+    "apiKey": "119c979a47b00ac21f65592f61fb663c589dbc0654ee4e30052d40a28829f3f3",
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
