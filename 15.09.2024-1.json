@@ -1,0 +1,26 @@
+{
+    "name": "Lori Reed",
+    "age": 91,
+    "address": {
+        "street": "David Dale",
+        "city": "Lake Richardfurt",
+        "state": "Idaho",
+        "zip": "65143"
+    },
+    "contact": {
+        "phone": "911.388.7667",
+        "servicePhone": "800667135"
+    },
+    "birthday": "1934-23-07",
+    "ip": "118.217.122.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Yard later throughout example along. Evening recently red them.\nNice simple increase surface worry. Ahead painting woman provide account do discuss.",
+        "bio": "Set oil lay truth sign require me. Your main among leg. Team apply appear trip challenge success out film.\nAllow spend floor term executive. Carry Democrat management. Write court huge hotel special."
+    },
+    "apiKey": "76c2ec2a70addd1095f824f55152c79c251e4ea9ba5bb184926dd2c665b71626",
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
