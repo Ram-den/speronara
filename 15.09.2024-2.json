@@ -1,0 +1,26 @@
+{
+    "name": "Mrs. Jenna Johnson MD",
+    "age": 11,
+    "address": {
+        "street": "Steven Course",
+        "city": "New Daniel",
+        "state": "Vermont",
+        "zip": "48796"
+    },
+    "contact": {
+        "phone": "834-426-2952x40747",
+        "servicePhone": "800764653"
+    },
+    "birthday": "2014-28-02",
+    "ip": "143.174.17.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Record Republican organization your character go. Hospital into section. Relate kitchen light answer.\nRace special common create data. Far leave yeah stuff.",
+        "bio": "Girl history third. Should quite forward store. Eight people guess everything her tough final.\nCoach woman challenge mean manage. Fund realize free worker. Boy dog suggest performance school."
+    },
+    "apiKey": "a31cbfed04fec8bc4671c1f15f35e2a774f5704c14a3dc71b92cb854cb0f3ac9",
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
