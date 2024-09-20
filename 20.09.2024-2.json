@@ -1,0 +1,26 @@
+{
+    "name": "Theresa Vasquez",
+    "age": 42,
+    "address": {
+        "street": "Odom Divide",
+        "city": "Costafurt",
+        "state": "Utah",
+        "zip": "71862"
+    },
+    "contact": {
+        "phone": "+1-757-705-7523x6445",
+        "servicePhone": "800414639"
+    },
+    "birthday": "1983-01-12",
+    "ip": "8.49.137.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder education better interview pick war.\nPer knowledge those hold. Allow activity door.\nCell weight hundred civil open.",
+        "bio": "Various decade pretty over. Appear room program century all letter."
+    },
+    "apiKey": "5c466608fc4819bc24df30bcaa0e9deaca04bfb4a932221408579eafb529d5d4",
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
