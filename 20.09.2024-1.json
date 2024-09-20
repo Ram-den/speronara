@@ -1,0 +1,26 @@
+{
+    "name": "Joshua Haley",
+    "age": 10,
+    "address": {
+        "street": "Hernandez Rue",
+        "city": "West Micheleberg",
+        "state": "Kentucky",
+        "zip": "72176"
+    },
+    "contact": {
+        "phone": "3788733649",
+        "servicePhone": "800689963"
+    },
+    "birthday": "2015-01-12",
+    "ip": "68.23.72.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Walk result which for current community. Show site process generation same organization. Road should industry they my ball if walk. Test along establish professional business send.",
+        "bio": "Instead day success window throughout. Rest ground record dark charge member increase.\nFish identify voice avoid some. Full million instead bar example."
+    },
+    "apiKey": "a1d38f85578da5ac93ab3694afe90e9c5d55279a908de6a0521c2075ccb30f77",
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
