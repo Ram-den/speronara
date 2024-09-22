@@ -1,0 +1,26 @@
+{
+    "name": "Renee James",
+    "age": 3,
+    "address": {
+        "street": "Lopez Stravenue",
+        "city": "Harrisonbury",
+        "state": "Mississippi",
+        "zip": "67538"
+    },
+    "contact": {
+        "phone": "(544)442-6025",
+        "servicePhone": "800239765"
+    },
+    "birthday": "2022-31-07",
+    "ip": "106.14.109.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr whether say there become. Really prove occur two face teacher young owner. Really real another voice how.",
+        "bio": "Before rise research grow hear. Former upon out beyond threat ask smile kitchen."
+    },
+    "apiKey": "f9ba2d20a11b7133cf55e90154261c32f2b2a7a7cb1c0740305a453764ec2ba7",
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
