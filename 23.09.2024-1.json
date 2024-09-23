@@ -1,0 +1,26 @@
+{
+    "name": "Cory Gonzalez",
+    "age": 114,
+    "address": {
+        "street": "Erin Drive",
+        "city": "Port Matthewport",
+        "state": "Maine",
+        "zip": "57579"
+    },
+    "contact": {
+        "phone": "5817395684",
+        "servicePhone": "800542452"
+    },
+    "birthday": "1911-30-07",
+    "ip": "216.220.46.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred instead left. Important event interview if voice TV. Foreign while effect owner safe. Professional evidence race campaign picture price.",
+        "bio": "Increase former across art treat outside local. Since job enter another every bed.\nAssume party product economic product college character."
+    },
+    "apiKey": "6cf58cfbcd268980e34bb6ec897f55abf06a0414a7cb08efc0d87df3b7858152",
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
