@@ -1,0 +1,26 @@
+{
+    "name": "Mark Myers",
+    "age": 110,
+    "address": {
+        "street": "Robert Points",
+        "city": "Turnerchester",
+        "state": "Wyoming",
+        "zip": "78750"
+    },
+    "contact": {
+        "phone": "(565)934-1428x1025",
+        "servicePhone": "800045440"
+    },
+    "birthday": "1915-16-07",
+    "ip": "60.99.112.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Major this fund call.\nLike drop impact through. Determine size close increase performance almost I. Suddenly open road.\nWorld its much. Thing effort Mrs challenge rather.",
+        "bio": "Animal music others including. Animal cover hotel hand total issue heart. Per through painting public.\nWell either lead southern. Throw leader thought interview various beyond according."
+    },
+    "apiKey": "a63c171fd60940595f28d14ff80fe7df8414ef9e6a6f921bc20b6c00a53f31df",
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
