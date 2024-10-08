@@ -1,0 +1,26 @@
+{
+    "name": "James Roberts",
+    "age": 104,
+    "address": {
+        "street": "Margaret Tunnel",
+        "city": "New Madisonmouth",
+        "state": "Michigan",
+        "zip": "29862"
+    },
+    "contact": {
+        "phone": "985.237.6602x27319",
+        "servicePhone": "800064635"
+    },
+    "birthday": "1921-27-07",
+    "ip": "138.23.215.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Across box tell. Movie night international star thank college yet.",
+        "bio": "Add big news democratic compare collection run attack. Week else education indeed great leader.\nGet young common strong level certain decision. His compare happen thank may."
+    },
+    "apiKey": "91aaa3dabcd5b2c81443d3ce6de3cacf8ecb594283db0440bcba7a179dd62ebf",
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
