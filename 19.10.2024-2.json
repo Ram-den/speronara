@@ -1,0 +1,26 @@
+{
+    "name": "Tracy Neal",
+    "age": 20,
+    "address": {
+        "street": "Haynes Greens",
+        "city": "Oliviaside",
+        "state": "Maine",
+        "zip": "29823"
+    },
+    "contact": {
+        "phone": "861.528.2899",
+        "servicePhone": "800357117"
+    },
+    "birthday": "2005-04-12",
+    "ip": "212.99.191.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Business college special bit with.\nAnyone election finish table finally. Customer spend land religious mention suddenly candidate.",
+        "bio": "Minute game edge you value born despite business. Country turn over deep door. Fly discuss stand eye act health find special."
+    },
+    "apiKey": "70185e6db88b5c23444f1b342f427e557fc23ae815970bd1db82b1210f600978",
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
