@@ -1,0 +1,26 @@
+{
+    "name": "Jonathan Williamson",
+    "age": 38,
+    "address": {
+        "street": "Eric Loaf",
+        "city": "Myersville",
+        "state": "Iowa",
+        "zip": "62643"
+    },
+    "contact": {
+        "phone": "+1-481-699-8423",
+        "servicePhone": "800844578"
+    },
+    "birthday": "1987-13-08",
+    "ip": "206.42.5.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Give month art attorney where check office.\nHalf fact program nothing.\nImagine model sure upon. Boy fund him.\nBeyond under card whose.",
+        "bio": "Claim far personal here you. Rate himself weight. Land whether inside relationship.\nNot series last what them.\nEast sea figure market. Age ahead two second. Line across professional study until."
+    },
+    "apiKey": "437d26c6c6b9056690f021320f5e8037ee1a0e7f6ad906d2a2c73adcc4523d66",
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
