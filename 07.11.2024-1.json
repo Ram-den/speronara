@@ -1,0 +1,26 @@
+{
+    "name": "Morgan Wagner",
+    "age": 29,
+    "address": {
+        "street": "Meagan Cove",
+        "city": "Nancyberg",
+        "state": "Oklahoma",
+        "zip": "19187"
+    },
+    "contact": {
+        "phone": "(934)933-8907x8001",
+        "servicePhone": "800513452"
+    },
+    "birthday": "1996-23-05",
+    "ip": "175.180.175.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Able identify better travel Mr similar treatment. Lay administration term full production. Wind small cold back floor different Congress.",
+        "bio": "My rise good common this argue. Manager present keep theory forget trade store.\nPerson a improve window five claim. Yes sometimes develop western. Plant certain town response appear."
+    },
+    "apiKey": "4595d136551fdc48441c7556740fb021f0d4931d3e9fb845aeca23890a3e900c",
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
