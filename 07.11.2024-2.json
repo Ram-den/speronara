@@ -1,0 +1,26 @@
+{
+    "name": "Ethan Lam",
+    "age": 106,
+    "address": {
+        "street": "Valentine Rue",
+        "city": "North Sarahville",
+        "state": "California",
+        "zip": "14726"
+    },
+    "contact": {
+        "phone": "9345947409",
+        "servicePhone": "800663473"
+    },
+    "birthday": "1919-08-07",
+    "ip": "124.88.157.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Call beautiful organization network lawyer. Population itself standard price task. Number financial bed food.\nScore from less. Size move visit rich foreign grow.",
+        "bio": "Your suggest outside old. Right drop born available area country seem.\nParticipant structure school today political. House building dinner environment idea. Consumer official hotel might."
+    },
+    "apiKey": "5c7ea1256f0eb7342e10e057483c8a32c60f6aa7a19599812152b895e7684bc1",
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
