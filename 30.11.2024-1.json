@@ -1,0 +1,26 @@
+{
+    "name": "Joseph Hernandez",
+    "age": 87,
+    "address": {
+        "street": "Graves Crest",
+        "city": "Shermanside",
+        "state": "Pennsylvania",
+        "zip": "94324"
+    },
+    "contact": {
+        "phone": "7123460891",
+        "servicePhone": "800448949"
+    },
+    "birthday": "1938-14-02",
+    "ip": "205.127.178.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Three always we although increase. Once story enter sell trip. Behind do note reality only. Well than write.\nNeed bar however evening five single. Relate phone suggest service state.",
+        "bio": "Watch leader indicate free white worry.\nTree company I back. Require tax attention financial indeed effort notice door. Off sport deal expect campaign."
+    },
+    "apiKey": "240841a4a0680b7c33f95b23ae58cfacf8e8455b608b79ce10e87a670d3b3405",
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
