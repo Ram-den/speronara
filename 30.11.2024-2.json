@@ -1,0 +1,26 @@
+{
+    "name": "Brandon King",
+    "age": 9,
+    "address": {
+        "street": "Dennis Turnpike",
+        "city": "North Janice",
+        "state": "Georgia",
+        "zip": "34451"
+    },
+    "contact": {
+        "phone": "884.853.2017",
+        "servicePhone": "800329298"
+    },
+    "birthday": "2016-03-05",
+    "ip": "129.33.167.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Ok trip fire sense hand north. Understand old middle law within.\nMajority energy identify begin when offer small.",
+        "bio": "Professor weight capital child. Kid tree activity question miss space.\nAction yard discover fear. Week along imagine hair admit. However write usually coach language generation walk."
+    },
+    "apiKey": "6f3e2976379370fd7a94c8a9eb660ef20ff5003e9f7438459e824b15dd7d7733",
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
