@@ -1,0 +1,26 @@
+{
+    "name": "Danny Bean",
+    "age": 105,
+    "address": {
+        "street": "Lauren Canyon",
+        "city": "East Toddburgh",
+        "state": "Tennessee",
+        "zip": "04745"
+    },
+    "contact": {
+        "phone": "+1-207-413-0030x1897",
+        "servicePhone": "800284633"
+    },
+    "birthday": "1920-26-10",
+    "ip": "50.145.128.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep court even air budget. Maintain within include population hospital modern pressure. During former travel benefit entire scene.\nEnergy little result kid data but option.",
+        "bio": "Bit everyone summer value. Develop ahead heavy for join. Kid trip doctor blue foot true tough. Main television that."
+    },
+    "apiKey": "9982ec09fcb2c1b21a42b5bfa8a0f02d1c75bca73459497c92e33202aaf1e5aa",
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
