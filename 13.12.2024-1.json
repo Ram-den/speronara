@@ -1,0 +1,26 @@
+{
+    "name": "Ann Huffman",
+    "age": 78,
+    "address": {
+        "street": "Catherine Via",
+        "city": "East Williamborough",
+        "state": "Maine",
+        "zip": "29295"
+    },
+    "contact": {
+        "phone": "(682)336-6170x9160",
+        "servicePhone": "800257069"
+    },
+    "birthday": "1947-07-03",
+    "ip": "184.129.97.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Land TV listen like hold risk without. Garden establish north son star no trip.\nProperty present couple become least. He police family cup goal.\nShow tell instead court region commercial.",
+        "bio": "Third itself meeting forget others fish. Yard quality human truth clearly. Wife vote matter radio only house garden.\nBeautiful station source heart moment order. Once sea goal million instead."
+    },
+    "apiKey": "18c05611ba4dc6f2ca6d6c034fcb62facfb612c688f1dd2a361a0770705a663f",
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
