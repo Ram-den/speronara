@@ -1,0 +1,26 @@
+{
+    "name": "Amanda Mcclure",
+    "age": 114,
+    "address": {
+        "street": "Mcguire Turnpike",
+        "city": "Greeneton",
+        "state": "Minnesota",
+        "zip": "93744"
+    },
+    "contact": {
+        "phone": "783-401-8698",
+        "servicePhone": "800219785"
+    },
+    "birthday": "1911-14-03",
+    "ip": "218.178.123.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Person black give standard administration nation baby. Happy necessary find relate family.\nNatural hope believe born less about. Relationship agree most reduce family.",
+        "bio": "International yourself share adult. Word continue quickly time girl wonder forget. Or fund beyond. Street push most lot meet company.\nMouth or medical instead."
+    },
+    "apiKey": "3a4ecfdb3b7da09214cc34222aa5f8c33ac01fc9c82456b4ea956c02636771c0",
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
