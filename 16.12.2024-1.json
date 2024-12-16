@@ -1,0 +1,26 @@
+{
+    "name": "Katherine Perez",
+    "age": 58,
+    "address": {
+        "street": "Sally Locks",
+        "city": "North Joseph",
+        "state": "New Hampshire",
+        "zip": "75826"
+    },
+    "contact": {
+        "phone": "394.581.9084x645",
+        "servicePhone": "800591876"
+    },
+    "birthday": "1967-07-10",
+    "ip": "73.217.26.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Number head operation reflect responsibility worker. Town information serious campaign throughout. Stop guess color in draw attorney.",
+        "bio": "Mouth name top rather. Clearly stand sign level simple science.\nOur issue performance wear local. Save feel Congress know. Move area day bit painting mouth human."
+    },
+    "apiKey": "86e191108190fad8b6531db4627a8bed9bf0e2c37f7472b0a690ed9773a6422e",
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
